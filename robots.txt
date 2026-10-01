@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patersonwaterheater.com/sitemap.xml
